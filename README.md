@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="public/projectImage.jpg" />
+  <img alt="Imagem da Aplicação" src="projectImage.jpg" />
 </p>
 
 ---
